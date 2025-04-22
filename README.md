@@ -24,7 +24,7 @@ This dashboard allows users to:
 
 - **Frontend**: React, TypeScript, Tailwind CSS
 - **State Management**: React Query for data fetching
-- **Visualization**: Recharts for interactive data visualization
+- **Visualization**: Recharts for interactive data visualizationM
 - **UI Components**: shadcn/ui component library
 - **Routing**: React Router for navigation
 
@@ -83,7 +83,7 @@ MIT
 
 ## Author
 
-[Your Name] - [Your Portfolio/GitHub URL]
+Mubarak A
 
 ## Acknowledgments
 
